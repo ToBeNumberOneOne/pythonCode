@@ -1,0 +1,21 @@
+{
+    "server": 
+      {
+      "hostname": "172.17.11.20",
+      "port": 4840,
+      "servername": "Server1"
+    },
+
+    "nodes": [
+
+          {
+            "node_id": "ns=6;s=::AsGlobalPV:Accs2MtGnt.ActLoadPos.y",
+            "name": "ActLoadPosY"
+          },
+          {
+            "node_id": "ns=6;s=::AsGlobalPV:Accs2MtGnt.ActLoadPos.x",
+            "name": "ActLoadPosX"
+          }
+        ]
+}
+  
